@@ -10,9 +10,6 @@
 [submodule "wk_WKNSMSE_pok.27.3a46"]
 	path = wk_WKNSMSE_pok.27.3a46
 	url = https://github.com/ices-taf/wk_WKNSMSE_pok.27.3a46.git
-[submodule "wk_WKNSMSE_her.27.1-24a514a"]
-	path = wk_WKNSMSE_her.27.1-24a514a
-	url = https://github.com/ices-taf/wk_WKNSMSE_her.27.1-24a514a.git
 [submodule "wk_WKNSMSE_her.27.3a47d"]
 	path = wk_WKNSMSE_her.27.3a47d
 	url = https://github.com/ices-taf/wk_WKNSMSE_her.27.3a47d.git
