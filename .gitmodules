@@ -4,3 +4,6 @@
 [submodule "wk_WKNSMSE_had.27.46a20"]
 	path = wk_WKNSMSE_had.27.46a20
 	url = https://github.com/ices-taf/wk_WKNSMSE_had.27.46a20.git
+[submodule "wk_WKNSMSE_whg.27.47d"]
+	path = wk_WKNSMSE_whg.27.47d
+	url = https://github.com/ices-taf/wk_WKNSMSE_whg.27.47d.git
